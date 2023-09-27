@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Edit <code>My github actions first trial</code> and save to reload.
         </p>
         <p>This is a simple react app that demonsrates usebofngithub actions</p>
         <a
@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn React for future use
         </a>
       </header>
     </div>
